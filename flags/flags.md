@@ -1,5 +1,5 @@
 
-# Chrome Flags
+# Chrome Optimizations
 Để Chỉnh Sửa Và Cài Đặt Vui Lòng Vào Đây `chrome://flags`
 * Lưu ý : Trong Đây Đều Là Tiếng Anh Và Đã Có Bản Quyền Bên Dưới.
 * My Channel: `https://www.youtube.com/channel/UC-FKTqZu2tO0-vgAM1S6dfw` ( Vietnamese ) 
