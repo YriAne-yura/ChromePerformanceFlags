@@ -189,8 +189,16 @@ These flags are from Nightly builds, some of them might not be available in othe
 * #edge-wdag-optional-network-isolation - **Enabled**
 * #edge-widevine-drm - **Disabled**
 	* Needed for Netflix, Spotify, etc.
+</p></details>
 
-# Mã Nguồn Từ:
-Đây: `https://github.com/dreammjow/ChromiumHardening/blob/main/flags/flags.md`
-Lí Do Tui Copy Cái Này Để Test Thử Xem Gifhub như nào tiện tay nghịch tý 
+## Nguồn
+
+<details><summary>Đây</summary><p>
+
+*  `https://github.com/dreammjow/ChromiumHardening/blob/main/flags/flags.md`
+</p></details>
+
+<details><summary>Lí Do</summary><p>
+
+* Lí Do Tui Copy Cái Này Để Test Thử Xem Gifhub như nào tiện tay nghịch tý 
 </p></details>
