@@ -1,0 +1,1 @@
+https://github.com/dreammjow/ChromiumHardening/blob/main/flags/flags.md
