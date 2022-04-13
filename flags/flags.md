@@ -1,6 +1,7 @@
 
 # Chrome Flags
-In order to modify flags, you must access `chrome://flags`
+Để Chỉnh Sửa Và Cài Đặt Vui Lòng Vào Đây `chrome://flags`
+* Lưu ý : Trong Đây Đều Là Tiếng Anh Và Đã Có Bản Quyền Bên Dưới.
 
 ## Privacy and Security
 
