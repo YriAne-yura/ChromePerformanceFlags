@@ -2,7 +2,7 @@
 # Chrome Optimizations Lag Fix
 Để Chỉnh Sửa Và Cài Đặt Vui Lòng Vào Đây `chrome://flags`
 * Lưu ý : Trong Đây Đều Là Tiếng Việt Được Dịch bởi 70-80% Bởi Google Dịch ( 20%-30% Do WDLF Dịch )
-* My Channel: `https://www.youtube.com/channel/UC-FKTqZu2tO0-vgAM1S6dfw` ( Vietnamese ) 
+* My Channel: `https://www.youtube.com/channel/UCqnb_ntxhhG_js7OdiSGs1A` ( Vietnamese ) 
 
 ## Tăng Hiệu Suất
 
